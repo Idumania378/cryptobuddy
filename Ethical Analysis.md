@@ -1,5 +1,5 @@
-## Ethical Analysis of CryptoBuddy
-# Potential Biases in the Model
+# Ethical Analysis of CryptoBuddy
+## Potential Biases in the Model
 Selection Bias: The cryptocurrency database only includes 5 major coins (Bitcoin, Ethereum, Cardano, Solana, Dogecoin), which may not represent the broader crypto market. This could lead to:
 
 Overlooking promising smaller projects
